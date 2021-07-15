@@ -1,6 +1,6 @@
 ## Hi I'm Ernesto! Welcome to my profile page <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a software developer from Valencia in Spain, focused on web technologies. I'm currently spending most of my time doing frontend development, but I enjoy working and learning about any related aspect.
+I'm a software developer focused on web technologies. I'm currently spending most of my time doing frontend development, but I enjoy working and learning about any related aspect.
 
 What I like the most is building stuff that provides value to other people, and I love to keep learning and adding new skills to my toolbelt in order to accomplish this goal 😄
 <br/>
