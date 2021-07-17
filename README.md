@@ -22,10 +22,19 @@ What I like the most is building stuff that provides value to other people, and 
 <p align="left"><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a></p>
 
 
-<br/><br/>
+<br/>
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egimenos&exclude_repo=ci_uoc&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egimenos&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egimenos&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=false" />
 </a>
+</div>
+
+<br/>
+
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourney-angular&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourney-angular)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourneyapi&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourneyapi)
