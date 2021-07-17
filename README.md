@@ -9,7 +9,7 @@ What I like the most is building stuff that provides value to other people, and 
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/Ernesto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-gimeno-sanchez/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](ergisandev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ergisandev@gmail.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white")](https://stackoverflow.com/users/6227057)
 
 #### So far I build most of my stuff with these technologies: 
