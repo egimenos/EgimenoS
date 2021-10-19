@@ -27,7 +27,7 @@ What I like the most is building stuff that provides value to other people, and 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egimenos&exclude_repo=ci_uoc&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=egimenos&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=false" />
 </a>
 </div>
