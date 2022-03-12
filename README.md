@@ -55,6 +55,15 @@ What I like the most is building stuff that provides value to other people, and 
       />
       <br /><strong>Ruby on Rails</strong>
     </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+        width="48"
+        height="48"
+        alt="Angular"
+      />
+      <br /><strong>Angular</strong>
+    </td>
     <td align="center" height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
