@@ -15,23 +15,119 @@ What I like the most is building stuff that provides value to other people, and 
 #### So far I build most of my stuff with these technologies: 
 
 <br/>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>  
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
-  <a href="https://heroku.com" target="_blank">  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank">   
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+
+
+<table>
+  <tr>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+        width="48"
+        height="48"
+        alt="Ruby"
+      />
+      <br /><strong>Ruby</strong>
+    </td>
+        <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Rails"
+      />
+      <br /><strong>Ruby on Rails</strong>
+    </td>
+    <td align="center" height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+       <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+  </tr>
+</table>
 
 #### And I'm currently learning or improving my skills with:
 <br/>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+        <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="Typescript"
+      />
+      <br /><strong>Typescript</strong>
+    </td>
+  </tr>
+</table>
 
 
 <br/>
