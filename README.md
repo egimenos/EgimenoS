@@ -153,6 +153,6 @@ What I like the most is building stuff that provides value to other people, and 
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=notion-db-bookmark-extension&show_owner=true&theme=yeblu)](https://github.com/egimenos/notion-db-bookmark-extension)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=local_playlists_player&show_owner=true&theme=yeblu)](https://github.com/egimenos/local_playlists_player)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourney-angular&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourney-angular)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourneyapi&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourneyapi)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=local_playlists_player&show_owner=true&theme=yeblu)](https://github.com/egimenos/local_playlists_player)
