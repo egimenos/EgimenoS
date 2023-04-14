@@ -90,16 +90,24 @@ What I like the most is building stuff that provides value to other people, and 
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
-    </td>
-       <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
+     <td align="center"height="108px" width="108px">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            width="48"
+            height="48"
+            alt="Typescript"
+            />
+         <br /><strong>Typescript</strong>
+      </td>
+         <td align="center"height="108px" width="108px">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+            width="48"
+            height="48"
+            alt="Typescript"
+            />
+         <br /><strong>Nestjs</strong>
+      </td>
   </tr>
 </table>
 
@@ -107,36 +115,38 @@ What I like the most is building stuff that provides value to other people, and 
 <br/>
 
 <table>
-  <tr>
-    <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-        <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        width="48"
-        height="48"
-        alt="Typescript"
-      />
-      <br /><strong>Typescript</strong>
-    </td>
-  </tr>
+   <tr>
+      <td align="center"height="108px" width="108px">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+            width="48"
+            height="48"
+            alt="Docker"
+            />
+         <br /><strong>Docker</strong>
+      </td>
+      <td align="center"height="108px" width="108px">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+            width="48"
+            height="48"
+            alt="Next.js"
+            />
+         <br /><strong>Next.js</strong>
+     </td>
+   </tr>
 </table>
+
+<br/>
+
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egimenos&exclude_repo=ci_uoc&count_private=true" />
+   </a>
+   <a href="https://github.com/anuraghazra/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=egimenos&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=false" />
+   </a>
+</div>
 
 
 <br/>
