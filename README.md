@@ -1,6 +1,6 @@
 ## Hi I'm Ernesto! Welcome to my profile page <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a software engineer focused on web technologies. Currently I'm working mostly on the backend side of things but I also like frontend and therefore I like to consider myself a fullstack developer.
+I'm a software engineer focused on web technologies. Currently, I'm working mostly on the backend side of things but I also like frontend and therefore I like to consider myself a fullstack developer.
 
 What I like the most is building stuff that provides value to other people, and I love to keep learning and adding new skills to my toolbelt in order to accomplish this goal 😄
 <br/>
@@ -149,15 +149,7 @@ What I like the most is building stuff that provides value to other people, and 
 </div>
 
 
-<br/>
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egimenos&exclude_repo=ci_uoc&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egimenos&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=false" />
-</a>
-</div>
+
 
 <br/>
 
@@ -166,3 +158,5 @@ What I like the most is building stuff that provides value to other people, and 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=local_playlists_player&show_owner=true&theme=yeblu)](https://github.com/egimenos/local_playlists_player)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourney-angular&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourney-angular)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourneyapi&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourneyapi)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=albums-reviews&show_owner=true&theme=yeblu)](https://github.com/egimenos/albums-reviews)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=spotify-playlist-reviews-extension&show_owner=true&theme=yeblu)](https://github.com/egimenos/spotify-playlist-reviews-extension)
