@@ -82,32 +82,6 @@ What I like the most is building stuff that provides value to other people, and 
             />
          <br /><strong>Node.js</strong>
       </td>
-      <td align="center" height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-            width="48"
-            height="48"
-            alt="HTML"
-            />
-         <br /><strong>HTML5</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-            width="48"
-            height="48"
-            alt="CSS3"
-            />
-         <br /><strong>CSS3</strong>
-      </td>
-   </tr>
-</table>
-
-#### And I'm currently learning or improving my skills with:
-<br/>
-
-<table>
-   <tr>
       <td align="center"height="108px" width="108px">
          <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
@@ -117,15 +91,23 @@ What I like the most is building stuff that provides value to other people, and 
             />
          <br /><strong>Docker</strong>
       </td>
-      <td align="center"height="108px" width="108px">
+   </tr>
+</table>
+
+#### And I'm currently learning or improving my skills with:
+<br/>
+
+<table>
+   <tr>
+      <td align="center" height="108px" width="108px">
          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             width="48"
             height="48"
-            alt="Next.js"
+            alt="Python"
             />
-         <br /><strong>Next.js</strong>
-     </td>
+         <br /><strong>Python</strong>
+      </td>
    </tr>
 </table>
 
