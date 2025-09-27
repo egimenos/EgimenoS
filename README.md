@@ -91,6 +91,15 @@ What I like the most is building stuff that provides value to other people, and 
             />
          <br /><strong>Docker</strong>
       </td>
+      <td align="center"height="108px" width="108px">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"
+            width="48"
+            height="48"
+            alt="Docker"
+            />
+         <br /><strong>Symfony</strong>
+      </td>
    </tr>
 </table>
 
