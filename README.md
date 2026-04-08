@@ -1,5 +1,7 @@
 ## Hi, I'm Ernesto! Welcome to my profile page <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things)](https://github.com/DenverCoder1/readme-typing-svg)
+
 I'm a software engineer focused on web technologies. Currently, I'm working primarily on the backend side of things, but I also like frontend, and therefore, I like to consider myself a full-stack developer.
 
 What I like the most is building stuff that provides value to other people, and I love to keep learning and adding new skills to my toolbelt to accomplish this goal 😄
@@ -17,130 +19,36 @@ What I like the most is building stuff that provides value to other people, and 
 <br/>
 
 
-<table>
-   <tr>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-            width="48"
-            height="48"
-            alt="JavaScript"
-            />
-         <br /><strong>JavaScript</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-            width="48"
-            height="48"
-            alt="Ruby"
-            />
-         <br /><strong>Ruby</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            width="48"
-            height="48"
-            alt="React"
-            />
-         <br /><strong>React</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-            width="48"
-            height="48"
-            alt="Nestjs"
-            />
-         <br /><strong>Nestjs</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"
-            width="48"
-            height="48"
-            alt="Rails"
-            />
-         <br /><strong>Ruby on Rails</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            width="48"
-            height="48"
-            alt="Typescript"
-            />
-         <br /><strong>Typescript</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            width="48"
-            height="48"
-            alt="Node.js"
-            />
-         <br /><strong>Node.js</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-            width="48"
-            height="48"
-            alt="Docker"
-            />
-         <br /><strong>Docker</strong>
-      </td>
-      <td align="center"height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"
-            width="48"
-            height="48"
-            alt="Docker"
-            />
-         <br /><strong>Symfony</strong>
-      </td>
-   </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ruby,react,nestjs,rails,ts,nodejs,docker,symfony" />
+  </a>
+</p>
 
 #### And I'm currently learning or improving my skills with:
 <br/>
 
-<table>
-   <tr>
-      <td align="center" height="108px" width="108px">
-         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            width="48"
-            height="48"
-            alt="Python"
-            />
-         <br /><strong>Python</strong>
-      </td>
-   </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
 
 <br/>
 
-<div>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egimenos&exclude_repo=ci_uoc&count_private=true" />
-   </a>
-   <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=egimenos&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=false" />
-   </a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egimenos&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egimenos&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egimenos&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egimenos&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egimenos&theme=tokyonight&utcOffset=2" />
 </div>
 
-
-
-
 <br/>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=cycling-fantasy-league-analyzer&show_owner=true&theme=yeblu)](https://github.com/egimenos/cycling-fantasy-league-analyzer)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=notion-db-bookmark-extension&show_owner=true&theme=yeblu)](https://github.com/egimenos/notion-db-bookmark-extension)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=local_playlists_player&show_owner=true&theme=yeblu)](https://github.com/egimenos/local_playlists_player)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourney-angular&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourney-angular)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=dailyjourneyapi&show_owner=true&theme=yeblu)](https://github.com/egimenos/dailyjourneyapi)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=albums-reviews&show_owner=true&theme=yeblu)](https://github.com/egimenos/albums-reviews)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=egimenos&repo=spotify-playlist-reviews-extension&show_owner=true&theme=yeblu)](https://github.com/egimenos/spotify-playlist-reviews-extension)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=egimenos&theme=tokyonight" />
+</div>
 
