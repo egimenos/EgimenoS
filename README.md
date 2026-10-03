@@ -30,7 +30,7 @@ What I like the most is building stuff that provides value to other people, and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,kotlin,spring" />
   </a>
 </p>
 
