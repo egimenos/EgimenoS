@@ -1,0 +1,34 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      # actions/checkout v7.0.1, pinned to a commit
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Generate cards
+        env:
+          # Personal access token with the `repo` scope, so private repositories are counted
+          GH_TOKEN: ${{ secrets.CARDS_TOKEN }}
+        run: node scripts/generate-cards.mjs
+
+      - name: Commit changes
+        run: |
+          git add cards
+          if git diff --cached --quiet; then
+            echo "Cards are up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile cards"
+          git push

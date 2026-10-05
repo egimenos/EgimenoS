@@ -39,10 +39,10 @@ What I like the most is building stuff that provides value to other people, and 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egimenos&theme=solarized" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egimenos&theme=solarized" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egimenos&theme=solarized" />
+  <img src="./cards/languages-by-repo.svg" />
+  <img src="./cards/languages-by-commit.svg" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egimenos&theme=solarized" />
+  <img src="./cards/stats.svg" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egimenos&theme=solarized&utcOffset=2" />
 </div>
 
