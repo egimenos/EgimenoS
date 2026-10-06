@@ -5,27 +5,27 @@
 <text x="30" y="58" font-size="12" fill="#586e75">all my repositories</text>
 <text x="30" y="82" font-size="13" fill="#586e75">JavaScript</text>
 <rect x="118" y="73" width="150" height="8" rx="4" fill="#eee8d5"/>
-<rect x="118" y="73" width="53.3" height="8" rx="4" fill="#f1e05a"/>
+<rect x="118" y="73" width="54.5" height="8" rx="4" fill="#f1e05a"/>
 <text x="310" y="82" font-size="13" text-anchor="end" fill="#586e75">36%</text>
 <text x="30" y="102" font-size="13" fill="#586e75">Ruby</text>
 <rect x="118" y="93" width="150" height="8" rx="4" fill="#eee8d5"/>
-<rect x="118" y="93" width="43.4" height="8" rx="4" fill="#701516"/>
+<rect x="118" y="93" width="42.9" height="8" rx="4" fill="#701516"/>
 <text x="310" y="102" font-size="13" text-anchor="end" fill="#586e75">29%</text>
 <text x="30" y="122" font-size="13" fill="#586e75">TypeScript</text>
 <rect x="118" y="113" width="150" height="8" rx="4" fill="#eee8d5"/>
-<rect x="118" y="113" width="35.5" height="8" rx="4" fill="#3178c6"/>
-<text x="310" y="122" font-size="13" text-anchor="end" fill="#586e75">24%</text>
+<rect x="118" y="113" width="35.1" height="8" rx="4" fill="#3178c6"/>
+<text x="310" y="122" font-size="13" text-anchor="end" fill="#586e75">23%</text>
 <text x="30" y="142" font-size="13" fill="#586e75">PHP</text>
 <rect x="118" y="133" width="150" height="8" rx="4" fill="#eee8d5"/>
-<rect x="118" y="133" width="7.9" height="8" rx="4" fill="#4F5D95"/>
-<text x="310" y="142" font-size="13" text-anchor="end" fill="#586e75">5.3%</text>
+<rect x="118" y="133" width="7.8" height="8" rx="4" fill="#4F5D95"/>
+<text x="310" y="142" font-size="13" text-anchor="end" fill="#586e75">5.2%</text>
 <text x="30" y="162" font-size="13" fill="#586e75">Kotlin</text>
 <rect x="118" y="153" width="150" height="8" rx="4" fill="#eee8d5"/>
 <rect x="118" y="153" width="4.0" height="8" rx="4" fill="#A97BFF"/>
 <text x="310" y="162" font-size="13" text-anchor="end" fill="#586e75">2.6%</text>
 <text x="30" y="182" font-size="13" fill="#586e75">Other</text>
 <rect x="118" y="173" width="150" height="8" rx="4" fill="#eee8d5"/>
-<rect x="118" y="173" width="5.9" height="8" rx="4" fill="#93a1a1"/>
+<rect x="118" y="173" width="5.8" height="8" rx="4" fill="#93a1a1"/>
 <text x="310" y="182" font-size="13" text-anchor="end" fill="#586e75">3.9%</text>
 </g>
 </svg>
