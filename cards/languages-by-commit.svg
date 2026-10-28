@@ -9,7 +9,7 @@
 <text x="310" y="82" font-size="13" text-anchor="end" fill="#586e75">57%</text>
 <text x="30" y="102" font-size="13" fill="#586e75">Python</text>
 <rect x="118" y="93" width="150" height="8" rx="4" fill="#eee8d5"/>
-<rect x="118" y="93" width="49.0" height="8" rx="4" fill="#3572A5"/>
+<rect x="118" y="93" width="48.9" height="8" rx="4" fill="#3572A5"/>
 <text x="310" y="102" font-size="13" text-anchor="end" fill="#586e75">33%</text>
 <text x="30" y="122" font-size="13" fill="#586e75">Kotlin</text>
 <rect x="118" y="113" width="150" height="8" rx="4" fill="#eee8d5"/>
